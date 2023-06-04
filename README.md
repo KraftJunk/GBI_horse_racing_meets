@@ -1,1 +1,1 @@
-#scrape and save multipe quotes from FCC
+#scrape and save today's horse racing meets in a file
